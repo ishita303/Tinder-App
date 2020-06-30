@@ -175,8 +175,10 @@ header .fl:last-child {
   border: 3px solid #F5C9CA;
   padding: 30px;
   display: flex;
+
   align-items: center;
   justify-content: center;
+
 }
 
 .pulse img {

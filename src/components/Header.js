@@ -10,7 +10,7 @@ const Header = () => (
     </div>
 
     <div className="fl">
-      <Logo />
+        <Logo />
     </div>
 
     <div className="fl">
